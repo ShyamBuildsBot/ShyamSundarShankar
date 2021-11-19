@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShyamSundarShankar
 - 👀 I’m interested in Data Analytics, Data Visualization & Process Automation
-- 🌱 I’m currently learning Python, SSRS
+- 🌱 I’m currently learning Python, Metabase, Docker
 - 💞️ I’m looking to collaborate on Freelance Consulting, Training
 - 📫 How to reach me shyam.dragon89@gmail.com
 
