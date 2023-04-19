@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ShyamSundarShankar<br>👀 I’m interested in Data Analytics, Data Visualization & Process Automation<br>🌱 I’m currently learning Python, Metabase, Docker<br>💞️ I’m looking to collaborate on Freelance Consulting, Training<br>📫 How to reach me shyam.dragon89@gmail.com
+👋 Hi, I’m @ShyamSundarShankar<br>👀 I’m interested in Product Consultation, Process Automation, Analytics & Marketing<br>🌱 I’m currently learning Docker, AWS & GCP<br>💞️ I’m looking to collaborate on Consulting, Freelance, Independent & Corporate Training<br>📫 How to reach me shyam.dragon89@gmail.com
 
 
 ## 🌐 Socials:
