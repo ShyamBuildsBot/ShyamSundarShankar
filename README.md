@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ShyamSundarShankar<br>👀 I’m interested in Product Consultation, Process Automation, Analytics, Content, and Marketing<br>🌱 I’m currently learning Containerization<br>💞️ I’m looking to collaborate on Independent Consulting & Freelance<br>📫 How to reach me shyam.dragon89@gmail.com
+👋 Hi, I’m @ShyamSundarShankar<br>👀 I’m interested in Product Management, Process Automation, and Analytics<br>🌱 I’m currently learning Serverless Computing and Containerization<br>💞️ I’m looking to collaborate on Independent Consulting & Freelance Projects in healthcare.<br>📫 How to reach me shyam.dragon89@gmail.com
 
 
 ## 🌐 Socials:
